@@ -1,0 +1,24 @@
+h1{
+    color: #0000ff;
+}
+
+*{
+    border: solid;
+    padding: 50%;
+}
+
+.designs {
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #00ffaa;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: solid 10px;
+}
+
+.head{
+    background-color: #ffaaff;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
